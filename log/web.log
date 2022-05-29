@@ -1,0 +1,540 @@
+
+2022-05-25 20:22:38 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:22:48 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:22:48 INFO  Browser:72 - Installation Complete
+2022-05-25 20:22:48 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:24:37 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:24:47 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:24:47 INFO  Browser:72 - Installation Complete
+2022-05-25 20:24:47 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:25:26 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:25:36 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:25:36 INFO  Browser:72 - Installation Complete
+2022-05-25 20:25:36 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:26:40 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:26:49 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:26:49 INFO  Browser:72 - Installation Complete
+2022-05-25 20:26:49 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:29:50 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:30:00 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:30:00 INFO  Browser:72 - Installation Complete
+2022-05-25 20:30:00 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:35:22 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:35:32 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:35:32 INFO  Browser:72 - Installation Complete
+2022-05-25 20:35:32 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:38:14 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:38:24 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:38:24 INFO  Browser:72 - Installation Complete
+2022-05-25 20:38:24 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:38:38 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-25 20:39:27 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:39:37 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:39:37 INFO  Browser:72 - Installation Complete
+2022-05-25 20:39:37 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:40:29 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:40:39 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:40:39 INFO  Browser:72 - Installation Complete
+2022-05-25 20:40:39 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:41:18 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:41:28 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:41:28 INFO  Browser:72 - Installation Complete
+2022-05-25 20:41:28 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:41:42 INFO  BasePage:984 - Lütfen numarayı kontrol edin
+2022-05-25 20:42:08 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:42:18 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:42:18 INFO  Browser:72 - Installation Complete
+2022-05-25 20:42:18 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:42:42 INFO  BasePage:984 - Hatalı doğrulama kodu girdin.
+2022-05-25 20:54:03 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:54:13 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:54:13 INFO  Browser:72 - Installation Complete
+2022-05-25 20:54:13 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:56:17 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 20:56:27 INFO  Browser:69 - Test Environment : Local
+2022-05-25 20:56:27 INFO  Browser:72 - Installation Complete
+2022-05-25 20:56:27 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 20:56:51 INFO  BasePage:984 - Merhaba, ALİ
+2022-05-25 21:00:57 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-25 21:01:08 INFO  Browser:69 - Test Environment : Local
+2022-05-25 21:01:08 INFO  Browser:72 - Installation Complete
+2022-05-25 21:01:08 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-25 21:01:23 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-26 20:39:25 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 20:39:35 INFO  Browser:69 - Test Environment : Local
+2022-05-26 20:39:35 INFO  Browser:72 - Installation Complete
+2022-05-26 20:39:35 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 20:39:52 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-26 20:46:59 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 20:47:09 INFO  Browser:69 - Test Environment : Local
+2022-05-26 20:47:09 INFO  Browser:72 - Installation Complete
+2022-05-26 20:47:09 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 20:47:22 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-26 21:01:33 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:01:43 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:01:43 INFO  Browser:72 - Installation Complete
+2022-05-26 21:01:43 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:02:02 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-26 21:05:04 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:05:14 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:05:14 INFO  Browser:72 - Installation Complete
+2022-05-26 21:05:14 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:28:31 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:28:41 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:28:41 INFO  Browser:72 - Installation Complete
+2022-05-26 21:28:41 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:31:27 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:31:37 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:31:37 INFO  Browser:72 - Installation Complete
+2022-05-26 21:31:37 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:33:28 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:33:38 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:33:38 INFO  Browser:72 - Installation Complete
+2022-05-26 21:33:38 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:35:22 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:35:32 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:35:32 INFO  Browser:72 - Installation Complete
+2022-05-26 21:35:32 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:37:12 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:37:22 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:37:22 INFO  Browser:72 - Installation Complete
+2022-05-26 21:37:22 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:39:32 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:39:42 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:39:42 INFO  Browser:72 - Installation Complete
+2022-05-26 21:39:42 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 21:40:35 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 21:40:45 INFO  Browser:69 - Test Environment : Local
+2022-05-26 21:40:45 INFO  Browser:72 - Installation Complete
+2022-05-26 21:40:45 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:01:34 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:04:00 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:04:10 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:04:10 INFO  Browser:72 - Installation Complete
+2022-05-26 22:04:10 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:09:07 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:09:17 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:09:17 INFO  Browser:72 - Installation Complete
+2022-05-26 22:09:17 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:11:15 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:11:24 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:11:24 INFO  Browser:72 - Installation Complete
+2022-05-26 22:11:24 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:15:07 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:15:17 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:15:17 INFO  Browser:72 - Installation Complete
+2022-05-26 22:15:17 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:30:59 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:31:09 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:31:09 INFO  Browser:72 - Installation Complete
+2022-05-26 22:31:09 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:32:48 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:32:58 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:32:58 INFO  Browser:72 - Installation Complete
+2022-05-26 22:32:58 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:35:32 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:35:42 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:35:42 INFO  Browser:72 - Installation Complete
+2022-05-26 22:35:42 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:47:26 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:47:36 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:47:36 INFO  Browser:72 - Installation Complete
+2022-05-26 22:47:36 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:52:02 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:52:12 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:52:12 INFO  Browser:72 - Installation Complete
+2022-05-26 22:52:12 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:53:12 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:53:22 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:53:22 INFO  Browser:72 - Installation Complete
+2022-05-26 22:53:22 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:54:24 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:54:34 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:54:34 INFO  Browser:72 - Installation Complete
+2022-05-26 22:54:34 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:56:26 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:57:17 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:57:27 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:57:27 INFO  Browser:72 - Installation Complete
+2022-05-26 22:57:27 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 22:58:25 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 22:58:35 INFO  Browser:69 - Test Environment : Local
+2022-05-26 22:58:35 INFO  Browser:72 - Installation Complete
+2022-05-26 22:58:35 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 23:07:59 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 23:08:09 INFO  Browser:69 - Test Environment : Local
+2022-05-26 23:08:09 INFO  Browser:72 - Installation Complete
+2022-05-26 23:08:09 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 23:11:05 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 23:11:14 INFO  Browser:69 - Test Environment : Local
+2022-05-26 23:11:14 INFO  Browser:72 - Installation Complete
+2022-05-26 23:11:14 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 23:14:00 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 23:14:09 INFO  Browser:69 - Test Environment : Local
+2022-05-26 23:14:09 INFO  Browser:72 - Installation Complete
+2022-05-26 23:14:09 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 23:14:26 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-26 23:14:26 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-26 23:28:11 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-26 23:28:21 INFO  Browser:69 - Test Environment : Local
+2022-05-26 23:28:21 INFO  Browser:72 - Installation Complete
+2022-05-26 23:28:21 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-26 23:28:32 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait13
+2022-05-26 23:28:32 INFO  BasePage:984 - Listelenen ürünlerin sayisi :13
+2022-05-26 23:28:37 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-26 23:28:37 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 21:47:50 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 21:48:01 INFO  Browser:69 - Test Environment : Local
+2022-05-27 21:48:01 INFO  Browser:72 - Installation Complete
+2022-05-27 21:48:01 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 21:48:16 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 21:48:16 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 21:48:20 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 21:48:20 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 21:58:21 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 21:58:31 INFO  Browser:69 - Test Environment : Local
+2022-05-27 21:58:31 INFO  Browser:72 - Installation Complete
+2022-05-27 21:58:31 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 21:58:44 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 21:58:44 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 21:58:49 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 21:58:49 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:01:11 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:01:21 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:01:21 INFO  Browser:72 - Installation Complete
+2022-05-27 22:01:21 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:01:34 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 22:01:34 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 22:01:39 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:01:39 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:20:11 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:20:21 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:20:21 INFO  Browser:72 - Installation Complete
+2022-05-27 22:20:21 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:20:34 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 22:20:34 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 22:20:39 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:20:39 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:21:56 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:22:06 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:22:06 INFO  Browser:72 - Installation Complete
+2022-05-27 22:22:06 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:22:18 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 22:22:18 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 22:22:23 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:22:23 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:22:32 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1494
+2022-05-27 22:22:32 INFO  BasePage:984 - Sepetteki fiyat:1494
+2022-05-27 22:23:24 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:23:34 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:23:34 INFO  Browser:72 - Installation Complete
+2022-05-27 22:23:34 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:23:46 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait13
+2022-05-27 22:23:46 INFO  BasePage:984 - Listelenen ürünlerin sayisi :13
+2022-05-27 22:23:51 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:23:51 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:23:51 INFO  BasePage:984 - En dusuk urunde yenisi geliyor yazıyor
+2022-05-27 22:30:07 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:30:17 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:30:17 INFO  Browser:72 - Installation Complete
+2022-05-27 22:30:17 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:30:29 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait13
+2022-05-27 22:30:29 INFO  BasePage:984 - Listelenen ürünlerin sayisi :13
+2022-05-27 22:30:35 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:30:35 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:30:35 INFO  BasePage:984 - En dusuk urunde yenisi geliyor yazıyor en dusuk fiyat olan ikinci urunu sepete ekliycek
+2022-05-27 22:30:43 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-27 22:30:43 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-27 22:31:43 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:31:53 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:31:53 INFO  Browser:72 - Installation Complete
+2022-05-27 22:31:53 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:32:07 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 22:32:07 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 22:32:11 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:32:11 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 22:32:22 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1494
+2022-05-27 22:32:22 INFO  BasePage:984 - Sepetteki fiyat:1494
+2022-05-27 22:33:43 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:33:54 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:33:54 INFO  Browser:72 - Installation Complete
+2022-05-27 22:33:54 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:34:12 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait13
+2022-05-27 22:34:12 INFO  BasePage:984 - Listelenen ürünlerin sayisi :13
+2022-05-27 22:34:18 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:34:18 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 22:34:18 INFO  BasePage:984 - En dusuk urunde yenisi geliyor yazıyor en dusuk fiyat olan ikinci urunu sepete ekliycek
+2022-05-27 22:34:27 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-27 22:34:27 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-27 22:35:36 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:35:46 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:35:46 INFO  Browser:72 - Installation Complete
+2022-05-27 22:35:46 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:42:30 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:42:41 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:42:41 INFO  Browser:72 - Installation Complete
+2022-05-27 22:42:41 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:42:57 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 22:42:57 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 22:49:16 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:49:27 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:49:27 INFO  Browser:72 - Installation Complete
+2022-05-27 22:49:27 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:49:45 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 22:49:45 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 22:53:37 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:53:47 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:53:47 INFO  Browser:72 - Installation Complete
+2022-05-27 22:53:47 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:54:08 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 22:54:08 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 22:55:59 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 22:56:10 INFO  Browser:69 - Test Environment : Local
+2022-05-27 22:56:10 INFO  Browser:72 - Installation Complete
+2022-05-27 22:56:10 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 22:56:30 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 22:56:30 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:00:37 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:00:48 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:00:48 INFO  Browser:72 - Installation Complete
+2022-05-27 23:00:48 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:01:08 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:01:08 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:02:29 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:02:40 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:02:40 INFO  Browser:72 - Installation Complete
+2022-05-27 23:02:40 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:03:01 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:03:01 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:05:54 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:06:05 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:06:05 INFO  Browser:72 - Installation Complete
+2022-05-27 23:06:05 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:06:26 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:06:26 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:10:07 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:10:18 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:10:18 INFO  Browser:72 - Installation Complete
+2022-05-27 23:10:18 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:10:36 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:10:36 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:12:04 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:12:14 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:12:14 INFO  Browser:72 - Installation Complete
+2022-05-27 23:12:14 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:12:31 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:12:31 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:13:17 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:13:27 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:13:27 INFO  Browser:72 - Installation Complete
+2022-05-27 23:13:27 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:13:47 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:13:47 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:14:45 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:14:55 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:14:55 INFO  Browser:72 - Installation Complete
+2022-05-27 23:14:55 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:15:14 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:15:14 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:15:57 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:16:07 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:16:07 INFO  Browser:72 - Installation Complete
+2022-05-27 23:16:07 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:16:24 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:16:24 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:19:30 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:19:40 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:19:40 INFO  Browser:72 - Installation Complete
+2022-05-27 23:19:40 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:20:01 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:20:01 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:23:18 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:23:29 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:23:29 INFO  Browser:72 - Installation Complete
+2022-05-27 23:23:29 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:23:52 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:23:52 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:25:10 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:25:53 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:26:03 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:26:03 INFO  Browser:72 - Installation Complete
+2022-05-27 23:26:03 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:26:24 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:26:24 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:29:58 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:30:09 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:30:09 INFO  Browser:72 - Installation Complete
+2022-05-27 23:30:09 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:30:28 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:30:28 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:31:26 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:31:36 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:31:36 INFO  Browser:72 - Installation Complete
+2022-05-27 23:31:36 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:31:52 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:31:52 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:32:31 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:32:41 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:32:41 INFO  Browser:72 - Installation Complete
+2022-05-27 23:32:41 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:32:59 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:32:59 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:35:56 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:36:06 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:36:06 INFO  Browser:72 - Installation Complete
+2022-05-27 23:36:06 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:36:26 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:36:26 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:37:53 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:38:03 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:38:03 INFO  Browser:72 - Installation Complete
+2022-05-27 23:38:03 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:38:21 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:38:21 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:38:54 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[890, 890, 990, 995, 995, 995, 1065, 1445, 1530, 1590, 1795, 1850, 1890, 1995, 1995, 2045, 2090, 2090, 2095, 2095, 2140, 2145, 2145, 2145, 2195, 2225, 2245, 2245, 2295, 2345, 2390, 2390, 2450, 2590, 2650, 2690, 2700, 2990, 2990, 3190, 3190, 3245, 3290, 3290, 3290, 3390, 3450, 3490, 3490, 3490, 3490, 3645, 3645, 3645, 3645, 3790, 3790, 3890, 3890, 3950, 3990, 3990, 3990, 3990, 3990, 3995, 3995, 4045, 4090, 4095, 4095, 4150, 4150, 4150, 4195, 4290, 4290, 4290, 4290, 4290, 4295, 4375, 4490, 4490, 4490, 4490, 4495, 4590, 4640, 4690, 4690, 4695, 4695, 4745, 4790, 4790, 4790, 4990, 4990, 4995, 5150, 5150, 5190, 5252, 5290, 5290, 5420, 5420, 5445, 5490, 5490, 5550, 5590, 5645, 5690, 5690, 5745, 5995, 5995, 6190, 6290, 6390, 6445, 6490, 6490, 6490, 6495, 6500, 6500, 6595, 6690, 6745, 6795, 6945, 6965, 6990, 7190, 7390, 7430, 7430, 7490, 7490, 7575, 7590, 7845, 7895, 7895, 7895, 7895, 7990, 8190, 8290, 8290, 8385, 8407, 8890, 9090, 9090, 9590, 9990, 9990, 11295, 13690]
+2022-05-27 23:38:54 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[890, 890, 990, 995, 995, 995, 1065, 1445, 1530, 1590, 1795, 1850, 1890, 1995, 1995, 2045, 2090, 2090, 2095, 2095, 2140, 2145, 2145, 2145, 2195, 2225, 2245, 2245, 2295, 2345, 2390, 2390, 2450, 2590, 2650, 2690, 2700, 2990, 2990, 3190, 3190, 3245, 3290, 3290, 3290, 3390, 3450, 3490, 3490, 3490, 3490, 3645, 3645, 3645, 3645, 3790, 3790, 3890, 3890, 3950, 3990, 3990, 3990, 3990, 3990, 3995, 3995, 4045, 4090, 4095, 4095, 4150, 4150, 4150, 4195, 4290, 4290, 4290, 4290, 4290, 4295, 4375, 4490, 4490, 4490, 4490, 4495, 4590, 4640, 4690, 4690, 4695, 4695, 4745, 4790, 4790, 4790, 4990, 4990, 4995, 5150, 5150, 5190, 5252, 5290, 5290, 5420, 5420, 5445, 5490, 5490, 5550, 5590, 5645, 5690, 5690, 5745, 5995, 5995, 6190, 6290, 6390, 6445, 6490, 6490, 6490, 6495, 6500, 6500, 6595, 6690, 6745, 6795, 6945, 6965, 6990, 7190, 7390, 7430, 7430, 7490, 7490, 7575, 7590, 7845, 7895, 7895, 7895, 7895, 7990, 8190, 8290, 8290, 8385, 8407, 8890, 9090, 9090, 9590, 9990, 9990, 11295, 13690]
+2022-05-27 23:40:18 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:40:28 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:40:28 INFO  Browser:72 - Installation Complete
+2022-05-27 23:40:28 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:40:46 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:40:46 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:43:38 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:43:48 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:43:48 INFO  Browser:72 - Installation Complete
+2022-05-27 23:43:48 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:44:05 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:44:05 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:48:24 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:48:34 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:48:34 INFO  Browser:72 - Installation Complete
+2022-05-27 23:48:34 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:48:51 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:48:51 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:52:57 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:53:07 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:53:07 INFO  Browser:72 - Installation Complete
+2022-05-27 23:53:07 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:53:29 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Peynir”aramasınaait163
+2022-05-27 23:53:29 INFO  BasePage:984 - Listelenen ürünlerin sayisi :163
+2022-05-27 23:54:03 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[890, 890, 990, 995, 995, 995, 1065, 1445, 1530, 1590, 1795, 1850, 1890, 1995, 1995, 2045, 2090, 2090, 2095, 2095, 2140, 2145, 2145, 2145, 2195, 2225, 2245, 2245, 2295, 2345, 2390, 2390, 2450, 2590, 2650, 2690, 2700, 2990, 2990, 3190, 3190, 3245, 3290, 3290, 3290, 3390, 3450, 3490, 3490, 3490, 3490, 3645, 3645, 3645, 3645, 3790, 3790, 3890, 3890, 3950, 3990, 3990, 3990, 3990, 3990, 3995, 3995, 4045, 4090, 4095, 4095, 4150, 4150, 4150, 4195, 4290, 4290, 4290, 4290, 4290, 4295, 4375, 4490, 4490, 4490, 4490, 4495, 4590, 4640, 4690, 4690, 4695, 4695, 4745, 4790, 4790, 4790, 4990, 4990, 4995, 5150, 5150, 5190, 5252, 5290, 5290, 5420, 5420, 5445, 5490, 5490, 5550, 5590, 5645, 5690, 5690, 5745, 5995, 5995, 6190, 6290, 6390, 6445, 6490, 6490, 6490, 6495, 6500, 6500, 6595, 6690, 6745, 6795, 6945, 6965, 6990, 7190, 7390, 7430, 7430, 7490, 7490, 7575, 7590, 7845, 7895, 7895, 7895, 7895, 7990, 8190, 8290, 8290, 8385, 8407, 8890, 9090, 9090, 9590, 9990, 9990, 11295, 13690]
+2022-05-27 23:54:03 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[890, 890, 990, 995, 995, 995, 1065, 1445, 1530, 1590, 1795, 1850, 1890, 1995, 1995, 2045, 2090, 2090, 2095, 2095, 2140, 2145, 2145, 2145, 2195, 2225, 2245, 2245, 2295, 2345, 2390, 2390, 2450, 2590, 2650, 2690, 2700, 2990, 2990, 3190, 3190, 3245, 3290, 3290, 3290, 3390, 3450, 3490, 3490, 3490, 3490, 3645, 3645, 3645, 3645, 3790, 3790, 3890, 3890, 3950, 3990, 3990, 3990, 3990, 3990, 3995, 3995, 4045, 4090, 4095, 4095, 4150, 4150, 4150, 4195, 4290, 4290, 4290, 4290, 4290, 4295, 4375, 4490, 4490, 4490, 4490, 4495, 4590, 4640, 4690, 4690, 4695, 4695, 4745, 4790, 4790, 4790, 4990, 4990, 4995, 5150, 5150, 5190, 5252, 5290, 5290, 5420, 5420, 5445, 5490, 5490, 5550, 5590, 5645, 5690, 5690, 5745, 5995, 5995, 6190, 6290, 6390, 6445, 6490, 6490, 6490, 6495, 6500, 6500, 6595, 6690, 6745, 6795, 6945, 6965, 6990, 7190, 7390, 7430, 7430, 7490, 7490, 7575, 7590, 7845, 7895, 7895, 7895, 7895, 7990, 8190, 8290, 8290, 8385, 8407, 8890, 9090, 9090, 9590, 9990, 9990, 11295, 13690]
+2022-05-27 23:54:26 INFO  BasePage:984 - En dusuk urunde yenisi geliyor yazıyor en dusuk fiyat olan ikinci urunu sepete ekliycek
+2022-05-27 23:56:07 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:56:16 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:56:16 INFO  Browser:72 - Installation Complete
+2022-05-27 23:56:16 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:56:35 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait13
+2022-05-27 23:56:35 INFO  BasePage:984 - Listelenen ürünlerin sayisi :13
+2022-05-27 23:56:49 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 23:56:49 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-27 23:56:53 INFO  BasePage:984 - En dusuk urunde yenisi geliyor yazıyor en dusuk fiyat olan ikinci urunu sepete ekliycek
+2022-05-27 23:57:02 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-27 23:57:02 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-27 23:57:31 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-27 23:57:41 INFO  Browser:69 - Test Environment : Local
+2022-05-27 23:57:41 INFO  Browser:72 - Installation Complete
+2022-05-27 23:57:41 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-27 23:57:59 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-27 23:57:59 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-27 23:58:13 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 23:58:13 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-27 23:58:25 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1494
+2022-05-27 23:58:25 INFO  BasePage:984 - Sepetteki fiyat:1494
+2022-05-29 07:43:01 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 07:43:12 INFO  Browser:69 - Test Environment : Local
+2022-05-29 07:43:12 INFO  Browser:72 - Installation Complete
+2022-05-29 07:43:12 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 07:43:30 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 07:43:30 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 07:43:44 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 07:43:44 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 07:43:56 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 07:43:56 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-29 07:47:49 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 07:47:59 INFO  Browser:69 - Test Environment : Local
+2022-05-29 07:47:59 INFO  Browser:72 - Installation Complete
+2022-05-29 07:47:59 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 07:48:16 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 07:48:16 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 07:48:31 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 07:48:31 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 07:48:43 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 07:48:43 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-29 07:54:08 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 07:54:17 INFO  Browser:69 - Test Environment : Local
+2022-05-29 07:54:17 INFO  Browser:72 - Installation Complete
+2022-05-29 07:54:17 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 07:54:36 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-29 07:54:36 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-29 07:54:49 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-29 07:54:49 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-29 07:55:01 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1494
+2022-05-29 07:55:01 INFO  BasePage:984 - Sepetteki fiyat:1494
+2022-05-29 07:56:46 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:05:26 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:05:36 INFO  Browser:69 - Test Environment : Local
+2022-05-29 08:05:36 INFO  Browser:72 - Installation Complete
+2022-05-29 08:05:36 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 08:05:54 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 08:05:54 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 08:06:08 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:06:08 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:06:20 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 08:06:20 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-29 08:11:46 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:12:17 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:12:27 INFO  Browser:69 - Test Environment : Local
+2022-05-29 08:12:27 INFO  Browser:72 - Installation Complete
+2022-05-29 08:12:27 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 08:12:44 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 08:12:44 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 08:12:59 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:12:59 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:13:11 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 08:13:11 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-29 08:19:30 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:19:40 INFO  Browser:69 - Test Environment : Local
+2022-05-29 08:19:40 INFO  Browser:72 - Installation Complete
+2022-05-29 08:19:40 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 08:19:58 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 08:19:58 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 08:20:13 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:20:13 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 08:20:25 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 08:20:25 INFO  BasePage:984 - Sepetteki fiyat:1000
+2022-05-29 08:22:04 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 08:22:14 INFO  Browser:69 - Test Environment : Local
+2022-05-29 08:22:14 INFO  Browser:72 - Installation Complete
+2022-05-29 08:22:14 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 08:22:32 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Saat”aramasınaait3
+2022-05-29 08:22:32 INFO  BasePage:984 - Listelenen ürünlerin sayisi :3
+2022-05-29 08:22:46 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-29 08:22:46 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1494, 1870, 3400]
+2022-05-29 08:22:58 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1494
+2022-05-29 08:22:58 INFO  BasePage:984 - Sepetteki fiyat:1494
+2022-05-29 19:52:33 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 19:52:43 INFO  Browser:69 - Test Environment : Local
+2022-05-29 19:52:43 INFO  Browser:72 - Installation Complete
+2022-05-29 19:52:43 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 19:52:58 INFO  BasePage:984 - Geçersiz telefon numarası.
+2022-05-29 19:52:58 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 19:53:08 INFO  Browser:69 - Test Environment : Local
+2022-05-29 19:53:08 INFO  Browser:72 - Installation Complete
+2022-05-29 19:53:08 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 19:53:22 INFO  BasePage:984 - Lütfen numarayı kontrol edin
+2022-05-29 19:53:22 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 19:53:31 INFO  Browser:69 - Test Environment : Local
+2022-05-29 19:53:31 INFO  Browser:72 - Installation Complete
+2022-05-29 19:53:31 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 19:53:56 INFO  BasePage:984 - Hatalı doğrulama kodu girdin.
+2022-05-29 19:53:56 INFO  BaseTest:27 - Settings Installation Start!
+2022-05-29 19:54:05 INFO  Browser:69 - Test Environment : Local
+2022-05-29 19:54:05 INFO  Browser:72 - Installation Complete
+2022-05-29 19:54:05 INFO  Browser:73 - ********* BROWSER:CHROME, VERSION:10.0, PLATFORM:WIN10
+2022-05-29 19:54:26 INFO  BasePage:984 - Ekrandan alinan ürün sayisi :“Pil”aramasınaait12
+2022-05-29 19:54:26 INFO  BasePage:984 - Listelenen ürünlerin sayisi :12
+2022-05-29 19:54:41 INFO  BasePage:984 - Filtresiz fiyatları alıp en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 19:54:41 INFO  BasePage:984 - Filtreden en düsükten en büyük fiyata gore sıralama :[1000, 1253, 1953, 2583, 3695, 3695, 3843, 4295, 4893, 5895, 7095, 11595]
+2022-05-29 19:54:53 INFO  BasePage:984 - Sepete eklenmedenki en düsük fiyatli urun :1000
+2022-05-29 19:54:53 INFO  BasePage:984 - Sepetteki fiyat:1000
