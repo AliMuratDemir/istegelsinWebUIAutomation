@@ -1,0 +1,1 @@
+var index = {"Tags":{"GecerliTelefonNumarasiileloginolma":["specs/istegelsincase.html"],"GecersizTelefonNumarasıileloginolma":["specs/istegelsincase.html"],"TelefonNumarasıbosbırakarakloginolma":["specs/istegelsincase.html"]},"Specs":{"Specification Heading":["specs/istegelsincase.html"]}};

@@ -1,0 +1,10 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="1" package="C:\Users\ali_m\Desktop\WebUI\WebUI-project\specs\enuygun\enuygun.spec" time="61.844" timestamp="2021-07-10T16:43:12" name="Specification Heading" errors="0" hostname="LAPTOP-K9S3PAK3">
+		<properties></properties>
+		<testcase classname="Specification Heading" name="EnUygun Ucak Bileti aratip kisi bilgileri doldurma" time="61.844">
+			<failure message="Gidis &#34;Pazartesi, 21 Eylül 2020&#34; ve dönus &#34;Cuma, 25 Eylül 2020&#34; tarihi sec&#xA;Step Execution Failure: &#39;java.lang.NullPointerException&#39;" type="Gidis &#34;Pazartesi, 21 Eylül 2020&#34; ve dönus &#34;Cuma, 25 Eylül 2020&#34; tarihi sec&#xA;Step Execution Failure: &#39;java.lang.NullPointerException&#39;">com.EnUygun.enuyguncase.gidisdonustarihi(enuyguncase.java:58)&#xA;</failure>
+		</testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>
