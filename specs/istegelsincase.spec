@@ -3,20 +3,20 @@ Specification Heading
 
 
 
-Gecersiz Telefon Numarası ile login olma
+Gecersiz Telefon Numarasi ile login olma
 -----------------------------------------
 
-tags: GecersizTelefonNumarasıileloginolma
+tags: GecersizTelefonNumarasiileloginolma
 
 * Sayfayi ac
 * Giris yap veya uye ol butonuna tikla
 * Telefon numarasi gir "1111111111" ve "devam et" butonuna tikla
 * Gecersiz telefon numarası uyarisi "Geçersiz telefon numarası." kontrol
 
-Telefon Numarası bos bırakarak login olma
+Telefon Numarasi bos birakarak login olma
 -----------------------------------------
 
-tags: TelefonNumarasıbosbırakarakloginolma
+tags: TelefonNumarasibosbirakarakloginolma
 
 * Sayfayi ac
 * Giris yap veya uye ol butonuna tikla
@@ -26,7 +26,7 @@ tags: TelefonNumarasıbosbırakarakloginolma
 Hatali Dogrulama kodu ile login olma
 ----------------------------------------
 
-tags: GecerliTelefonNumarasiileloginolma
+tags: HataliDogrulamakoduileloginolma
 
 * Sayfayi ac
 * Giris yap veya uye ol butonuna tikla
@@ -37,7 +37,7 @@ tags: GecerliTelefonNumarasiileloginolma
 Urun arama ve en dusuk fiyatli urunu sepete ekleme
 ---------------------------------------------------
 
-tags: GecerliTelefonNumarasiileloginolma
+tags: Urunaramaveendusukfiyatliurunusepeteekleme
 
 * Sayfayi ac
 * Arama cubuguna "Pil" yaz ve ara
